@@ -1,0 +1,3 @@
+/Users/puneetsharma/Projects/TextX/cmake-build-debug/CMakeFiles/TextX.dir
+/Users/puneetsharma/Projects/TextX/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/puneetsharma/Projects/TextX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
